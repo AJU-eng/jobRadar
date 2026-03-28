@@ -1,0 +1,12 @@
+GET http://localhost:8080/v1/jobs?location=palakad
+Content-Type: application/json
+
+{
+  "name": "shop bistander",
+  "description": "looking for a shop bistander in palakad",
+  "amount": 500,
+  "time": "9:00 AM",
+  "time_range": "9:00 AM - 6:00 PM",
+  "period": "Daily",
+  "location": "palakad"
+}

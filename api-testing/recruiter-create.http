@@ -1,0 +1,11 @@
+POST http://localhost:8080/v1/recruiterRegister
+Content-Type: application/json
+
+{
+    "name":"dayforge solutions LLP",
+    "email":"hr@dayforge.co.in",
+    "password":"1234567",
+    "license_no":123456789,
+    "location":"kozhikode",
+    "phone_no":74382847483
+}

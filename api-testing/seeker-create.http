@@ -1,0 +1,14 @@
+POST http://localhost:8080/v1/seekerRegister
+Content-Type: application/json
+
+{
+    "name":"hanya",
+    "email":"hanya@gmail.com",
+    "gender":"female",
+    "password":"123456",
+    "age":21,
+    "qualification":"MCA",
+    "adhar_no":3789732957982,
+    "phone_no": 8509431459445,
+    "location":"palakad"
+}

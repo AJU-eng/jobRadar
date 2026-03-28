@@ -1,0 +1,7 @@
+POST http://localhost:8080/v1/recruiterLogin
+Content-Type: application/json
+
+{
+    "email":"hr@dayforge.co.in",
+    "password":"1234567"
+}
